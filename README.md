@@ -18,6 +18,8 @@ Logistic Regression의 회귀계수와 Random Forest의 Feature Importance 분�
 
 ![image](https://github.com/user-attachments/assets/74d8443f-1522-46cb-9d65-a1e5fdefadb4)
 
+![image](https://github.com/user-attachments/assets/e8ef1ced-0f2f-43d7-84ac-279d956bd7d2)
+
 <h2>파일 설명</h2>
 
 - data.ipynb: 데이터 전처리
