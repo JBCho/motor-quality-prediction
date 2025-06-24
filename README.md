@@ -12,6 +12,8 @@ Motor 공정은 여러 개의 중간 공정을 거치며, 각 공정의 중간�
 
 ![image](https://github.com/user-attachments/assets/0e753686-49cb-4050-8c2c-6418f6153f14)
 
+Binary defect prediction 문제에서 Logistic regression은 Accuracy 95% - Recall 100%, Random forest는 Accuracy 99% - Recall 90%를 나타냄
+
 Logistic Regression의 회귀계수와 Random Forest의 Feature Importance 분석 결과, 공통적으로 LVDT 변수의 중요도가 가장 높은 것으로 나타남
 
 ![image](https://github.com/user-attachments/assets/74d8443f-1522-46cb-9d65-a1e5fdefadb4)
